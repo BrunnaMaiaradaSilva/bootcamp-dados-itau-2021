@@ -7,5 +7,5 @@ A resolução dos exercícios está sempre no arquivo copy, os arquivos estão s
 para clonar esse repositório: 
 
 ```
-https://github.com/BrunnaMaiaradaSilva/bootcamp-dados-itau-2021.git 
+git clone https://github.com/BrunnaMaiaradaSilva/bootcamp-dados-itau-2021.git 
 ```
